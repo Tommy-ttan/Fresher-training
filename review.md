@@ -1,3 +1,4 @@
+EX1
 * Good point:
     - Result is good at 80%
     - Can use while (), do {} while(), for()
@@ -13,3 +14,18 @@
 * Question
     - distinguish char and string
     - why need to use float
+
+EX2
+* Good point:
+    - Result is good at first timne
+    - Better coding convention
+* Need to improve:
+    - Coding convention
+        - Naming
+        - Declare part
+    - Choose suitable variable type
+    - Try to use function
+* Question
+    - Enum
+    - Switch - case
+    - Boolean return type
