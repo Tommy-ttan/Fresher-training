@@ -29,3 +29,9 @@ EX2
     - Enum
     - Switch - case
     - Boolean return type
+
+EX3
+* Good point:
+    - Result is good at first timne
+* Question:
+    - Maloc and Caloc
